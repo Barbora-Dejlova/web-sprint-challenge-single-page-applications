@@ -91,7 +91,7 @@ const OrderForm = () =>{
 
             <FormGroup check>
             <Label check>
-                    <Input type='checkbox' name='sauce' value='Classic Marinara' onChange={handleChange} />
+                    <Input type='checkbox' name='sauce' value='Marinara' onChange={handleChange} />
                     Some sauce
                 </Label>
             </FormGroup>
